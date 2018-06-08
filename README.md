@@ -16,5 +16,12 @@
 
 ----
 
+#### Who is this for ####
+People who wish to see a fine tuned version of their history
+
+----
+
 #### I wish to contribute ####
 Please fork the project and submit a PR
+
+----
