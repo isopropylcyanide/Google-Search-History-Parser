@@ -17,7 +17,8 @@
 ----
 
 #### Who is this for ####
-People who wish to see a fine tuned version of their history
+People who wish to see a fine tuned version of their history as opposed to the abominable file format in which 
+Google dumps the search data
 
 ----
 
